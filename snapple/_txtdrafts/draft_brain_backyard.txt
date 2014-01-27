@@ -1,0 +1,22 @@
+FIRST PUZZLE - BRAIN
+LOCATION: BACKYARD
+
+>> SURVEY
+
+The obelisks enclose three sides of a wide rectangular area filled with masses of life-things. The fourth side is mostly occupied by a tall, flat surface adorned with squares of a reflective material.
+
+Ahead is a tremendous life-thing, menacingly towering above the others by orders of magnitude. Is this stoic monstrosity the ruler of these silent revelers?
+
+>> EXAMINE KING OF THE LIFE-THINGS
+
+Dour and terrible, this silent tyrant glowers from on high at the countless life-things that shiver in fear or reverence below it. Foul, inky shadows gather in pools at its feet in tribute to what is doubtlessly a hideous might.
+
+It does not react. Best to leave it.
+
+>> EXAMINE FLAT SURFACE
+
+The wall is largely unadorned, except for a flat rectangular gem, reflective and almost completely transparent.
+
+>> EXAMINE MACHINE
+
+It’s a car, obviously.

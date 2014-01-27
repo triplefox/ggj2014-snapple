@@ -1,0 +1,25 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/formchange.rpy", line 38, in script call
+  File "game/images.rpy", line 45, in script call
+  File "game/images.rpy", line 50, in script
+  File "game/images.rpy", line 45, in python
+NameError: name 'cur_place' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "/Applications/renpy-6.16.5-sdk/renpy/execution.py", line 288, in run
+    node.execute()
+  File "/Applications/renpy-6.16.5-sdk/renpy/ast.py", line 1168, in execute
+    value = renpy.python.py_eval(expr)
+  File "/Applications/renpy-6.16.5-sdk/renpy/python.py", line 1342, in py_eval
+    return eval(py_compile(source, 'eval'), globals, locals)
+  File "game/images.rpy", line 45, in <module>
+    call set_place(cur_place)
+NameError: name 'cur_place' is not defined
+
+Darwin-13.0.0-x86_64-i386-64bit
+Ren'Py 6.16.5.525
+snapple 0.0

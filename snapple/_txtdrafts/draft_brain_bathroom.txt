@@ -1,0 +1,34 @@
+>> SURVEY
+A cold room with a number of plain, smooth surfaces. There are several basins. On the ground-place is a rectangle which seems to be filled with curious facsimiles of the life-things.
+
+>> EXAMINE EMPTY BASIN
+The long, empty basin has several metal tubes which looming precariously over it. If this device has a purpose, it is indiscernible. An art object, perhaps.
+
+>> if(seesink) EXAMINE RAISED BASIN
+Two odd wheels jut out from either side of a metal tube on top of the basin.
+
+Turning one of the wheels, a fluid pours out from the metal tube and flows down a hole at the bottom of the basin. Turning the wheel in the reverse direction, the fluid stops. A standard nutrient sludge dispenser.
+
+>> EXAMINE FILLED BASIN
+A basin filled with some sort of cold nutrient sludge. Discarded from a previous meal, perhaps. Behind the basin is a rectangular silo, perhaps intended for storage, and on top of which rests a grey rectangular object.
+
+// seegameboy = true
+
+>> EXAMINE LIFE-THING RECTANGLE
+There is a rectangle of things which appear to be similar in shape to the life-things, but which seem slightly different.
+
+>> if(seemirror) EXAMINE REFLECTIVE GEM
+Another flat gem, which is highly reflective. You can see your floating crystalline shellskin in the reflection, beautiful and perfect.
+
+Along one side are a set of metal devices similar to the ones which held the floating obelisks in place. You angle the gem, revealing an interior compartment which holds a number of curious artifacts.
+
+// seetoothbrush = true
+
+>> if(seeduckey) EXAMINE HOLLOW OBJECT
+Along the edge of the empty basin is a small yellow object, which smells hollow. Another art object, perhaps.
+
+>> EXAMINE ARTIFACT
+One of the artifacts is a small, thin rod. On one end are a number of short fibers that jut out in a mostly singular direction. The fibers appear to be slightly damp.
+
+>> if(seegameboy) EXAMINE GREY RECTANGLE
+It appears to be some sort of non-holographic device, widely agreed to be the most delicious of all classes of devices.

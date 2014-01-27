@@ -1,0 +1,38 @@
+EMOTION PUZZLE - BEDROOM
+
+ITEMS:
+toys: toys which are well-loved by humans.
+mobile: a number of model planets hanging. they make jingly-jangly sounds when jangled.
+lava lamp: a lamp which is full of molten rock.
+bed: a bed.
+
+BRAIN
+(if selectedToy == true) use knowledge garnered of human culture to lure child out with a toy in a way which is deemed nonthreatening (set outOfTheCloset == true)
+
+
+>> SURVEY
+This seems to be a sort of intelligence room. A map hangs suspended in midair above a command table of sorts, and on the ground there are artifacts splayed out in a particular arrangement. On a stand rests what appears to be a display case for some aquatic organism.
+
+>> EXAMINE ARTIFACTS
+A number of what appear to be communication tokens lie in various configurations on the ground. This could perhaps be used in tandem with vibrations to send messages, but it’s difficult to ascertain which would be correct to use.
+
+>> EXAMINE AQUARIUM
+A cone which seems to hold prisoner some sort of primitive organism. It is vibrating at a frequency which produces slight heat.
+
+>> EXAMINE GALACTIC MAP
+Some sort of odd holographic map. It shows an array of planets suspended in midair. There seems to be no power crystal attached to the device, however. How do the holograms hold their form, otherwise?
+
+>> if(closetOpen == true) EXAMINE OPENING
+An ugly gem panel hangs from a slight angle. Inside, there is mostly shadow, but vibrations are emanating from the place in a regular pattern.
+
+>> if(closetOpen == true && selectedToy == true) OFFER ARTIFACT
+As shown on the display panel in the command room, you offer what you believe to be a correctly significant communication object while making correct vibrations.
+
+The life-thing emerges from the shadow-place and makes vibrations in response. In what is most likely a ritual form of accepting the vibrations, the life-thing takes the communication object and is standing in front of you expectantly.
+// outOfTheCloset = true;
+
+>> if(outOfTheCloset == true) EXAMINE FLESHBEAST
+The curious thing appears to be completely not-crystal in form. How odd! It is most similar to the wretched eaterbeasts of Crebulin VII, with the distinctive difference that it is not trying to use its singular wet tentacle to eagerly ascertain the properties of everything in the immediate vicinity.
+
+
+

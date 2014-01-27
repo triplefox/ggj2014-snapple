@@ -1,0 +1,41 @@
+= = = = =
+
+OPENING SCENE - BRAIN SEGMENT
+
+Three holodiodes on the console flash brightly in a standard Veluvian alert pattern. One, one, three, one, two, three. One, one, three, one, two, three. Alert. Alert.
+
+The display shows the planet, doused as it is in saltwater, at standard magnification. Everything is standard. Very excellent. The salty planet’s gravitational field is currently overpowering the ship’s hologravity engine booster magnets, as indicated by the Veluvian alarm.
+
+The alarm is still functioning standardly. Very excellent. The holodiodes are well-designed, with a long lifespan and a bright, clear flash at each moment. One, one, three, one, two, three. Alert.
+
+The craft is crashing down through the atmosphere of the saltwater sphere. One, one, three, one, two, three. Alert.
+
+Blue gives way to green. Red, red, red, red, red, red. The green interrupts, colliding into the ship with a loud crunching shudder. Black.
+
+= = = = =
+
+TUTORIAL - BRAIN SEGMENT
+
+>> SURVEY / SWITCH LANDING TEXT
+
+Odd: a series of long, thin rectangular obelisks half-embedded in the ground in a rigid pattern. There are many bright-green life-things gathered around it, perhaps in silent prayer.
+
+>> EXAMINE LIFE-THINGS
+
+Countless and very-many. Each seems to be reaching for the thin obelisks. Are these the dominant life-thing in this planet-place?
+
+>> EXAMINE OBELISKS
+
+A strange-thing. The surface has an incredible level of detail, as if it were carefully and reverently sculpted. Religious significance, assuredly.
+
+Some of the obelisks float above the ground, held in place by small metal objects, one of which seems to be capable of triggering a glorious release.
+
+Hypothesis: freeing the floating obelisks has a 86% chance of endearing you to the bright-green life-things.
+
+>> FREE OBELISK
+
+The metal device swings easily open. The floating obelisks gently glide out at an angle from the buried obelisks. The life-things show no signs of recognition for this act.
+
+Beyond the obelisks, there is a wide area enclosed on each side by obelisks and filled with even more life-things.
+
+>> GO OBELISK CATHEDRAL

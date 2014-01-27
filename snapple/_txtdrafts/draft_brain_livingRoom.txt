@@ -1,0 +1,31 @@
+BRAIN PUZZLE
+GOAL: LEARN HOW TO COMMUNICATE WITH THE FLESHBEAST
+
+LOCATION: LIVING ROOM
+
+ITEMS IN LIVING ROOM: TELEVISION, COUCH, LAMP, REMOTE, COFFEE TABLE
+
+GENERAL PUZZLE STRUCTURE:
+	EMOTION DETECTS POSITIVE FEELINGS IN VICINITY OF TELEVISION AND COUCH
+	MOUTH ANALYZES REMOTE AND IN SO DOING TURNS ON TELEVISION ACCIDENTALLY
+	BRAIN PERFORMS CULTURAL ANALYSIS ON SOAP OPERA TO GAIN CRITICAL UNDERSTANDING ON HUMAN PSYCHE AND EMOTIONS
+
+>> SURVEY
+This room appears to be some sort of bridge. A odd command chair lies opposite a display screen. Near the command chair is a light-emitter and a flat surface.
+
+>> EXAMINE GLOWTOWER
+A tall vertical spindle, flared at the base and at the top. Light spills out the top of the spindle and fills the room.
+
+>> EXAMINE COMMAND CHAIR
+A very strange command chair. It must be for a very wide sort of creature, as the chair is nearly four times as wide as any sort of standard model.
+
+>> if(televisionOn == false) EXAMINE RECTANGLE
+Another of the strange non-holographic devices that seem prevalent on this planet. If there is a means of interfacing with this, it is one which is beyond the understanding of your mindcrystal.
+
+>> if(televisionOn == true) EXAMINE GLOWRECTANGLE
+The command screen is active, showing a series of images of life-things with their appendages wrapped around each other. There are a series of vibrations in the air, as well.
+
+Do these life-things communicate using vibrations? They are perhaps not so alien after all. It might be possible to replicate these particular vibrations using rudimentary crystallic harmonic vibrationization. 
+
+>> if(televisionOn == true) EXAMINE BUTTONPLANK
+A slender plank, studded with a number of beautiful grey gems. It is glistening and damp.
